@@ -1,0 +1,5 @@
+Credentials cache: API:B3C12910-312F-4568-BB85-63A60580F555
+        Principal: yjin@42MADRID.COM
+
+  Issued                Expires               Principal
+Jun 23 18:04:32 2021  Jun 24 04:04:32 2021  krbtgt/42MADRID.COM@42MADRID.COM
